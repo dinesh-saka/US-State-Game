@@ -2,7 +2,7 @@
 
 The ** US State Game** is a fun and interactive Python script that utilizes the Turtle graphics library to create a game where players can guess U.S. states by their names and mark them on a map. The game aims to help players learn the names and locations of the 50 U.S. states in an engaging way.
 
-##Dependencies
+## Dependencies
 
 The US State Game project relies on the following Python packages:
 
